@@ -26,30 +26,30 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 
 PM_START_TEXT = """
-**🙋🏻Hello..!!Mr./ Mrs.{}, My Name is {}!** 
-I am an **👩🏻‍🔬Talented+Sequred👮🏻**  group management bot.
-You can find the list of available commands with these trigger💁🏻 /help.
+**🙋🏻Hello..!!{}** 
+I am a **Highly Secured Group Management Bot.**
+You can find the list of available commands with these trigger 💁🏻 /help.
 
 """
 
 HELP_STRINGS = """
 
-Hii Friend..!! About Meself *{}* & you can also Meet with Jour Official Study Material bot. @Librarian_Notes_Bot 💝 .
+Hii {}..!! All About Myself *{}* & Also Join our Educational Bot :: t.me/Librarian_Notes_Bot 
 
 Commands Available In **Main Menu**:
 💠➥ /start : To activate the Bot.
 💠➥ /help : PM's You with the commands.
 💠➥ /help <module name> : PM's you about the module.
 💠➥ /settings :
-✅ In PM ; will send your settings for all supported modules.
-✅ In Group ; will redirect you to PM, with all that chat settings.
+  ✅ In PM ; will send your settings for all supported modules.
+  ✅ In Group ; will redirect you to PM, with all that chat settings.
 
 
 {}
 And the Following : 
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-TECHNO_IMG = "https://telegra.ph/file/1471e3045f93d131509e3.jpg"
+TECHNO_IMG = "https://telegra.ph/file/ebb1285443b1e54a313b3.jpg"
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
@@ -139,18 +139,18 @@ def start(bot: Bot, update: Update, args: List[str]):
             update.effective_message.reply_photo(
                 TECHNO_IMG,
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
-                parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⤵️🤝HELP🤝⤵️",
+                parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⤵️🤝 HELP 🤝⤵️",
                                                                        callback_data="help_back".format(bot.username)),
-                                                                                   InlineKeyboardButton(text="👩‍💻CREATOR👩‍💻",
-                                                                       url=f"t.me/Mr_Purushottam")],
-                                                                                   [InlineKeyboardButton(text="⤴️TAKE ME TO YOUR GROUP⤴️",
+                                                                                   InlineKeyboardButton(text="👩‍💻 CREATOR 👩‍💻",
+                                                                       url=f"t.me/AniMesH941")],
+                                                                                   [InlineKeyboardButton(text="⤴️ ADD ME ⤴️",
                                                                        url="t.me/{}?startgroup=true".format(bot.username)),
-                                                                                   InlineKeyboardButton(text="👩‍💻SAURCE CODE IN BIO🥺",
-                                                                       url="https://instagram.com/mr_purushottam_m/")
+                                                                                   InlineKeyboardButton(text="👩‍💻 JOIN NOW 🥺",
+                                                                       url="https://t.me/Channel_Librarian")
                                                                                  ]]))
 
     else:
-        update.effective_message.reply_text("Hello Mr / Mrs Who are you & Why are you starting me ?? 🥺😉, Becuse I am Already ONline")
+        update.effective_message.reply_text("Hello I'm Online since 2000 light years")
 
 
 def send_start(bot, update):
