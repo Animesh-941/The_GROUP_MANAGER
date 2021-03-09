@@ -1,9 +1,9 @@
 
 
 
-# LIBRARIAN'S GROUP MANAGER Bot
-# Just a Telegram LUBRARIAN'S GROUP MANAGER Bot based on MARIE Bot
-Find on Telegram - [THE LIBRARIAN'S](https://t.me/LibrarianGroupManagerBot)
+# GROUP MANAGER BOT
+# Just a Telegram GROUP MANAGER BOT based on MARIE Bot
+Find on Telegram - [THE LIBRARIAN'S](https://t.me/librarian_notes_bot)
 [.](https://heroku.com/deploy)
 
 # INFO 
@@ -12,29 +12,28 @@ Find on Telegram - [THE LIBRARIAN'S](https://t.me/LibrarianGroupManagerBot)
 
  The Librarian's📚📚
 
-✍︎ *𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐓𝐡𝐞 𝐖𝐨𝐫𝐥𝐝 𝐎𝐟 𝐁𝐨𝐨𝐤𝐬 & 𝐊𝐧𝐨𝐥𝐞𝐝𝐠𝐞🤓
+✍︎ *𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐓𝐡𝐞 𝐖𝐨𝐫𝐥𝐝 𝐎𝐟 𝐁𝐨𝐨𝐤𝐬 🤓
 
 # 𝐃𝐞𝐯𝐥𝐨𝐩𝐞𝐫𝐬
 
-* 𝐇𝐞𝐚𝐝 𝐎𝐰𝐞𝐧𝐞𝐫 
 
-<h2 align="center"><b>Owner: <a href="https://t.me/Mr_Purushottam">☞︎︎︎   ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ𝐌𝐫.𝑷𝒆𝒓𝒇𝒆𝒄𝒕.᪣ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ..    ☜︎︎︎</a></b></h2>
 
-* 𝐂𝐨_𝐎𝐰𝐧𝐞𝐫
 
-<h2 align="center"><b>Owner: <a href="https://t.me/Animesh_941">☞︎︎︎   ಠ_ಠ𝐀𝐍𝐈𝐌𝐄𝐒𝐇 𝐕𝐄𝐑𝐌𝐀ಠ_ಠ   ☜︎︎︎</a></b></h2>
 
-*𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬
 
-<h2 align="center"><b>Owner: <a href="https://t.me/I_am_Banned">☞︎︎︎   ¯\_(ツ)_/¯𝐁𝐑𝐎𝐓𝐇𝐄𝐑¯\_(ツ)_/¯    ☜︎︎︎</a></b></h2>
+* Owner
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/code-rgb//THE-LIBRARIAN-MANAGER-BOT)
+<h2 align="center"><b>Owner: <a href="https://t.me/Animesh941">☞︎︎︎   ಠ_ಠ 𝐀𝐍𝐈𝐌𝐄𝐒𝐇 𝐕𝐄𝐑𝐌𝐀 ಠ_ಠ   ☜︎︎︎</a></b></h2>
 
-[![JOIN OWER TELEGRAAM GROUP](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod&style=flat-square)](https://gitpod.io/#https://github.com/code-rgb//THE-LIBRARIAN-MANAGER-BOT)
 
-<br /></div>
 
-<div align="center" style="box-sizing: border-box;">
+
+
+
+
+
+
+
 
 </div>
 
@@ -58,11 +57,11 @@ Find on Telegram - [THE LIBRARIAN'S](https://t.me/LibrarianGroupManagerBot)
 
  
 
- # join our educational institutions 
+ # Join our Educational Institutions 
 
  *Join the group for more information and how it works and if you want more IT engineering etc. All these study materials are available with us so join as soon as possible
 
- ⤵️Group + channel. links are given below⤵️
+ ⤵️ Group + channel. links are given below ⤵️
 
 <br>
 
@@ -80,7 +79,7 @@ Find on Telegram - [THE LIBRARIAN'S](https://t.me/LibrarianGroupManagerBot)
 
 <p align="center">
 
-   <a href = "https://dashboard.heroku.com/new?button-url=android-app%3A%2F%2Forg.telegram.messenger%2F&template=https%3A%2F%2Fgithub.com%2FPURHSHOTTAM%2FThe_GROUP_MANAGER%2Ftree%2Fmaster"><img src="https://telegra.ph/file/eb784f6f13ddc0efd2508.png" alt="Press to Takeoff" width="220px"></a>
+   <a href = "https://dashboard.heroku.com/new?button-url=android-app%3A%2F%2Forg.telegram.messenger%2F&template=https%3A%2F%2Fgithub.com%Animesh-941%2FThe_GROUP_MANAGER%2Ftree%2Fmaster"><img src="https://telegra.ph/file/eb784f6f13ddc0efd2508.png" alt="Press to Takeoff" width="220px"></a>
 
 </p>
 
